@@ -34,7 +34,7 @@ A smart wearable system built using **ESP32, MPU6050, GSR sensor, and Blynk IoT*
 
 ---
 
-## 👨‍💻 Author
-ECE Engineering Student
-
-
+## Team Members
+- Tehzeeb-10
+- sheeruuzan02
+- Member 3
